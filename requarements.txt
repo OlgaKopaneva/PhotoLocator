@@ -1,0 +1,4 @@
+aiogram==2.25.1
+torch==2.1.2
+torchvision==0.16.2
+g4f==0.1.9.3
